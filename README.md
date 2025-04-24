@@ -36,6 +36,7 @@ This dashboard was created as a visual showcase and not intended for deep data a
 Feel free to fork the project and enhance it with new features like trend analysis, sales data, or user reviews!
 
 ## 📬 Contact
-Created by [Aniket Dalvi]
-📧 [aniketdalvi0003@gmail.com]
+
+Created by [Aniket Dalvi]  
+📧 [aniketdalvi0003@gmail.com]  
 🔗 [https://www.linkedin.com/in/aniket-dalvi-318913217/]
